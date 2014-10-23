@@ -1,0 +1,8 @@
+name: Vampire
+main: com.minefrance.vampire.Vampire
+version: 0.1
+description: Plugin de vampire sur bukkit
+author: Dumbeldor
+commands:
+  vampire join:
+    description: Rejoindre les vampires
